@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-redux-app/static/css/main.dbcc7b9f.chunk.css",
+    "main.js": "/simple-redux-app/static/js/main.12b1a6ae.chunk.js",
+    "main.js.map": "/simple-redux-app/static/js/main.12b1a6ae.chunk.js.map",
+    "runtime-main.js": "/simple-redux-app/static/js/runtime-main.f4cfeeef.js",
+    "runtime-main.js.map": "/simple-redux-app/static/js/runtime-main.f4cfeeef.js.map",
+    "static/js/2.208ead7d.chunk.js": "/simple-redux-app/static/js/2.208ead7d.chunk.js",
+    "static/js/2.208ead7d.chunk.js.map": "/simple-redux-app/static/js/2.208ead7d.chunk.js.map",
+    "index.html": "/simple-redux-app/index.html",
+    "static/css/main.dbcc7b9f.chunk.css.map": "/simple-redux-app/static/css/main.dbcc7b9f.chunk.css.map",
+    "static/js/2.208ead7d.chunk.js.LICENSE.txt": "/simple-redux-app/static/js/2.208ead7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4cfeeef.js",
+    "static/js/2.208ead7d.chunk.js",
+    "static/css/main.dbcc7b9f.chunk.css",
+    "static/js/main.12b1a6ae.chunk.js"
+  ]
+}
